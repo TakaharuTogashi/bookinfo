@@ -1,3 +1,0 @@
-# bookinfo
-# bookinfo
-# bookinfo
